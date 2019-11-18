@@ -12,6 +12,6 @@ HTML and CSS
 ##Support and contact details
 for any comments or contribution please contact me on linkedin my user name is mukamisha 
 and this is a link of my github pageto help you
-https://github.com/mukamisha/portfolio.git
+
 ### License
 *copyright @ 2019 **mukamisha*** 
